@@ -18,12 +18,7 @@ a.random{
   right: 1em;
 }
 a.random .slot{
-  filter: grayscale(70%);
   height: 4.95em;
-}
-a.random .slot:hover {
-  transition: all ease-in 0.2s;
-  filter: grayscale(20%);
 }
 .container {
   text-align: center;
